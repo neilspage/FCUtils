@@ -1,2 +1,2 @@
-# FCBashUtils
-Bash Utils for my work at FluentCommerce.
+# FCUtils
+Bash and Java Utils for my work at FluentCommerce.
